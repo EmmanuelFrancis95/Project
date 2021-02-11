@@ -1,8 +1,6 @@
 package com.francis.interfaces;
 
-/**
-* Documentation: This is a simplified List implementation with only basic functionality.
-/*
+
 
 public interface IList<E> {
 	
